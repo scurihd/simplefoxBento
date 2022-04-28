@@ -118,7 +118,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Photopea',
 			icon: 'palette',
-			link: 'https://hashnode.com/',
+			link: 'https://www.photopea.com/',
 		},
 		{
 			id: '6',
